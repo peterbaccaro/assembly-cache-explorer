@@ -13,4 +13,4 @@ The following features are supported:
 - Ability to export assemblies to a folder.
 - Ability to backup asemblies during Install and Uninstall operations.
 
-[<img src="AssemblyCacheExplorer.jpg">]
+<img src="AssemblyCacheExplorer.jpg">
