@@ -14,3 +14,13 @@ The following features are supported:
 - Ability to backup asemblies during Install and Uninstall operations.
 
 <img src="AssemblyCacheExplorer.jpg">
+
+## Getting Started
+
+- Open the solution `AssemblyCacheExplorer.sln` in Visual Studio.
+- Ensure that the `AssemblyCacheExplorer` is set as the startup project.
+- Run the application.
+
+## License
+
+Apache License 2.0
